@@ -13,7 +13,7 @@
 <body>
     <h1>Mis prácticas</h1>
     <ol>
-        <li><a>HOLA</a></a> </li>
+        <li><a>HOLA:</a></a> </li>
         <a href="../Practicas web_Ines/index.html"></a>
         <li>Adiós</li>
         <li>Hola</li>
